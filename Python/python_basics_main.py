@@ -9,9 +9,9 @@ class python():
             2. How to create a constructor *
             3. Why do we create if __name__==__main__:? *
             4. How to create a function *
-            5. Why do we use self?
-            6. How to create and call modules
-            7. Why do we create __init__.py in folder?
+            5. Why do we use self? *
+            6. How to create and call modules *
+            7. Why do we create __init__.py in folder? *
         '''
         print("inside")
 
@@ -48,7 +48,7 @@ if __name__=='__main__':
     6. Map
     7. Comprehension
 3. File Handling Functions
-    1. Open
+    1. Open 
     2. Read
     3. Write
     4. Close
